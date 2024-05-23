@@ -36,7 +36,7 @@ To increase accuracy, I:
 - Introduced early stopping to stop when minimum val loss is achieved.
 
 ## Instructions to Run the Code
-
+Use these Saved weights --> `Task_2_weights.h5`
 To run the code:
 
 1. Clone this repository to your local machine.
